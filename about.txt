@@ -1,0 +1,2 @@
+1.final.py full rag model implemented
+2.main.py same like final but changing the some internal ui
